@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C2BinarySearch.Q7;
+package com.dezhou.braisedchicken.C02BinarySearch.Q7;
 
 //K Closest In Sorted Array
 public class Solution {

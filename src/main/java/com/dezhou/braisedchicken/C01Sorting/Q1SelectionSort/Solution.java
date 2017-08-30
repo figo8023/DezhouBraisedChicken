@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C1Sorting.Q1SelectionSort;
+package com.dezhou.braisedchicken.C01Sorting.Q1SelectionSort;
 
 public class Solution {
     public int[] solve(int[] array) {

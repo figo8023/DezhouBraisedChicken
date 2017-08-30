@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C1Sorting.Q2MergeSort;
+package com.dezhou.braisedchicken.C01Sorting.Q2MergeSort;
 
 public class Solution {
     public int[] mergeSort(int[] array) {

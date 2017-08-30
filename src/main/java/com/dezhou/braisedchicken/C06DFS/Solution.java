@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C6DFS;
+package com.dezhou.braisedchicken.C06DFS;
 
 import java.util.ArrayList;
 import java.util.List;

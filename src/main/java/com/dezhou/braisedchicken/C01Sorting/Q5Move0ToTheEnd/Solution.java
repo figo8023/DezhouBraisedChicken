@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C1Sorting.Q5Move0ToTheEnd;
+package com.dezhou.braisedchicken.C01Sorting.Q5Move0ToTheEnd;
 
 public class Solution {
     public int[] moveZero(int[] array) {

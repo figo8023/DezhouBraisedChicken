@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C1Sorting.Q3QuickSort;
+package com.dezhou.braisedchicken.C01Sorting.Q3QuickSort;
 
 public class Solution {
     public int[] quickSort(int[] array) {
