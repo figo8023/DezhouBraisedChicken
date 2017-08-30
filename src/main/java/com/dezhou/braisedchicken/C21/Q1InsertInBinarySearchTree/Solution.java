@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C21.Q1;
+package com.dezhou.braisedchicken.C21.Q1InsertInBinarySearchTree;
 
 class TreeNode {
     public int key;
