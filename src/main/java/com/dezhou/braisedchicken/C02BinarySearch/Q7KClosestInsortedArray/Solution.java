@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C02BinarySearch.Q7;
+package com.dezhou.braisedchicken.C02BinarySearch.Q7KClosestInsortedArray;
 
 //K Closest In Sorted Array
 public class Solution {
@@ -51,7 +51,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] test = new int[] {1,2,2,2,2,2,2,2};
+        int[] test = new int[]{1, 2, 2, 2, 2, 2, 2, 2};
         int result = largestSmallerEqual(test, 2);
         System.out.println(result);
     }

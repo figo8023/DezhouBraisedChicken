@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C02BinarySearch.Q9;
+package com.dezhou.braisedchicken.C02BinarySearch.Q9SearchInsortedMatrixI;
 
 //Search In Sorted Matrix I
 public class Solution {

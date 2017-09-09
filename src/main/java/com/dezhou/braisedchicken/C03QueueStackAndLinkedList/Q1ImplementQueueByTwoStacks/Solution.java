@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C3QueueStackAndLinkedList.Q1ImplementQueueByTwoStacks;
+package com.dezhou.braisedchicken.C03QueueStackAndLinkedList.Q1ImplementQueueByTwoStacks;
 
 import java.util.LinkedList;
 

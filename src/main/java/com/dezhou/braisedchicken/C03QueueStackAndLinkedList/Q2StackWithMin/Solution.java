@@ -1,4 +1,4 @@
-package com.dezhou.braisedchicken.C3QueueStackAndLinkedList.Q2StackWithMin;
+package com.dezhou.braisedchicken.C03QueueStackAndLinkedList.Q2StackWithMin;
 
 import java.util.Deque;
 import java.util.LinkedList;
